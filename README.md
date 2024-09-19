@@ -1,6 +1,3 @@
-![](https://github.com/ColdDay/mp4ToGif/blob/master/images/%E6%9D%A8%E8%B6%85%E8%B6%8A.gif?raw=true "视频转GIF")
-
-> 在线DEMO体验 [https://www.mofazhuan.com/video-to-gif](https://mofazhuan.com/video-to-gif "视频转GIF")
 
 > Chrome浏览器插件安装点这里     [点这安装 Install](https://chrome.google.com/webstore/detail/%E8%A7%86%E9%A2%91%E8%BD%ACgif/leddonjpeickjppkdpmojghbikcimbca "视频转GIF")
 
@@ -34,8 +31,6 @@
 本工具是在它的基础上进行的二次开发,感谢作者开源贡献
 
 关于谷歌浏览器开发，可以查看[在线文档](https://github.com/kaola-fed/blog/issues/25 "视频转GIF")
-
-工具具体实现可以访问我的github查看[源代码](https://github.com/ColdDay/mp4ToGif "视频转GIF")，核心代码仅200行，如果对你有帮助，也欢迎 [Star](https://github.com/ColdDay/mp4ToGif "mp4ToGif")
 
 
 ![](https://user-gold-cdn.xitu.io/2019/1/5/1681dcf96c0747d4?w=300&h=216&f=gif&s=1515269 "")
